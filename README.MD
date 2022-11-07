@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;|<strong> WORLD CUP CALLENDAR </strong> |&nbsp;&nbsp;&nbsp;
 </h1>
 
-# **WHAT?**
+# **what?**
 
 We developed the 2022's FIFA World Cup Callendar!
 
@@ -27,6 +27,8 @@ We developed the 2022's FIFA World Cup Callendar!
 During november`22, the world will stop to watch the FIFA World Cup @ Catar. That said, the RocketSeat school decided to create and event (Next Level Week) with the main mission to develop an callendar that will cover all teams games.
 
 This is the result:
+<br>
+<img alt="project" src="github/project.png" width="75%">
 
 # **Developers**
 
