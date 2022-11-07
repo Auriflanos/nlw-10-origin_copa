@@ -18,7 +18,7 @@ We developed the 2022's FIFA World Cup Callendar!
 - [Expectations and Acomplishments](#Expectations-and-Acomplishments)
 - [Developers](#Developers)
 
-# **Technoogies**
+# **Technogies**
 
 <img alt="tecnologias" title="tecnologias" src="https://beststickers.net/image/cache/catalog/products/stickers/java-html-css-vinyl-stickers-decal-2800x1600.jpg" height="300px"/>
 
